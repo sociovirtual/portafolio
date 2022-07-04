@@ -1,7 +1,9 @@
 <template>
 
 <div>
-  pie de sitio
+  <hr>
+  
+  pie de sitio 
 </div>
 
 </template>

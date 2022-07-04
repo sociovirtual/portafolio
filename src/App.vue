@@ -10,7 +10,10 @@ import Page_footer from './components/Page_footer.vue';
 <template>
 <Page_header />
 <router-view> </router-view>
-</template>
 <Page_footer />
+</template>
+
+
+<!-- estilos  -->
 <style>
 </style>
