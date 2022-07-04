@@ -9,7 +9,7 @@ import Page_footer from './components/Page_footer.vue';
 
 <template>
 <Page_header />
-<router-view> </router-view>
+hhhhh
 <Page_footer />
 </template>
 
